@@ -1,0 +1,9 @@
+[package]
+name = "platformer_game"
+version = "0.1.0"
+authors = ["Your Name <your.email@example.com>"]
+edition = "2018"
+
+[dependencies]
+ggez = "0.6.0"
+rand = "0.8.3"
